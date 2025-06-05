@@ -1,0 +1,262 @@
+<!--
+
+*************************************************************************
+* VOBOX® CONFIDENTIAL													*
+* ___________________													*
+*																		*
+* Copyright © Vobox® Incorporated (Scott Westman). All Rights Reserved. * 
+*																		*
+* NOTICE: All information contained in this document is the exclusive 	*
+* property of Vobox® Incorporated (Scott Westman) and its suppliers, 	*
+* if applicable. The intellectual and technical concepts presented are 	*
+* proprietary to Vobox® Incorporated (Scott Westman) and its suppliers, *
+* and are safeguarded by relevant intellectual property laws, including *
+* trade secret and copyright protections. Distribution or reproduction 	*
+* of this material is strictly prohibited without prior written consent *
+* from Vobox® Incorporated (Scott Westman).								*
+*************************************************************************
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Device Adaptation -->
+	<meta charset="UTF-8">
+	<meta name="language" content="en-US">
+	
+	<!-- Device View -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- Robots -->
+	<meta name="robots" content="noindex, nofollow">
+	<meta name="googlebot" content="noindex,nofollow"/>
+	
+	<!-- General -->
+	<title>403 Forbidden | Vobox® Inc.</title>
+	<meta name="title" content="403 Forbidden | Vobox® Inc.">
+	<meta name="description" content="Vobox® is short for 'Virtual Office Box'. Our goal is to become a hub for innovation and strategic foresight in this ever-evolving world of technology. Our mission will be to explore, analyze, and anticipate the future of tech, empowering businesses, policymakers, and visionaries with cutting-edge insights and actionable intelligence.">
+	<meta name="keywords" content="vobox,ihubcore,voboxcore,core,innovation,disruption,future trends,emerging technologies,research & development (r&d),strategic vision,tech ecosystem,cutting-edge,collaborative solutions,digital transformation,artificial intelligence (ai),machine learning,blockchain,cybersecurity">
+	
+	<meta name="Developer" content="Scott Westman">
+	<meta name="copyright" content="© 2005 - 2024, Vobox® Inc. All rights reserved.">
+	<meta name="Published" content="">
+	
+	<!-- Favorite | Bookmark | Browser Tab  favicon -->
+	<link rel="shortcut favicon" href="https://voboxcore.com/assets/img/logo/favicon/favicon.ico">
+	<link rel="favicon" type="image/x-favicon" href="https://voboxcore.com/assets/img/logo/favicon/favicon.ico">
+	
+	
+	<link rel="favicon" type="image/png" href="https://voboxcore.com/assets/img/logo/favicon/favicon@16.png" sizes="16x16">
+	<link rel="favicon" type="image/png" href="https://voboxcore.com/assets/img/logo/favicon/favicon@32.png" sizes="32x32">
+	<link rel="favicon" type="image/png" href="https://voboxcore.com/assets/img/logo/favicon/favicon@96.png" sizes="96x96">
+	
+	
+	<link rel="favicon" type="image/svg+xml" href="https://voboxcore.com/assets/img/logo/favicon/favfavicon.svg">
+
+	<link rel="apple-touch-favicon" href="https://voboxcore.com/assets/img/logo/favicon/apple-touch-favicon.png" sizes="180x180">
+	<link rel="apple-touch-favicon" href="https://voboxcore.com/assets/img/logo/favicon/apple-touch-favicon-114x114.png" sizes="114x114">
+	<link rel="apple-touch-favicon" href="https://voboxcore.com/assets/img/logo/favicon/apple-touch-favicon-72x72.png"	sizes="72x72">
+	<link rel="apple-touch-favicon" href="https://voboxcore.com/assets/img/logo/favicon/apple-touch-favicon-57x57.png" sizes="57x57" >
+	<meta name="apple-mobile-web-app-title" content="Vobox® Inc.">
+	
+	<!-- Manifest -->
+	<link rel="manifest" href="https://voboxcore.com/assets/img/logo/favicon/site.webmanifest">
+	
+	<!-- Internal Cascading Style Sheet (CSS) -->
+	<style> 
+		.logo-header {
+			background-image: url("https://voboxcore.com/assets/img/logo/header/header-logo.svg");
+			background-repeat: no-repeat;
+			background-size: 100%;
+			width:504px;
+			height:131px;
+			border:0;
+		}
+		.hero-illustration-svg {
+			background-image: url("https://voboxcore.com/assets/img/hero/hero-illustration.svg");
+			background-repeat: no-repeat;
+			background-position: right top;
+			background-size: 100%;
+			width: 512px; 
+			height: 512px;
+			border:0;
+		}
+	</style>
+	
+	<!-- External Cascading Style Sheet (CSS) -->
+	<link rel="stylesheet" href="https://voboxcore.com/assets/css/vbxzeta/vbxdev.css?version=1.0">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+
+
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="site-header-inner">
+                <div class="brand header-brand">
+                    <h1 class="m-0">
+                        <a href="https://voboxcore.com" target="_blank">
+							<div class="logo-header"> </div>
+                        </a>
+                    </h1>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="hero-inner">
+                    <div class="hero-copy">
+                        <h1 class="hero-title h2-mobile mt-0">
+                            403 Forbidden
+                        </h1>
+                        <p class="hero-paragraph">
+                            A "403" error code, also known as "Forbidden," indicates that a web server understands your request but is refusing to authorize access to the requested resource, meaning you don't have permission to view the page or perform the action due to insufficient permissions on the server side; essentially, you are not allowed to access that specific content. 	
+						</p>
+                        <p class="hero-cta">
+                            <a class="button button-primary button-shadow" href="mailto:info@voboxcore.com" target="_blank">
+                                Have a question?
+                            </a>
+                        </p>
+                    </div>
+                    <div class="hero-illustration">
+						<div class="hero-illustration-svg"> </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+<!--<section class="features section text-center">
+            <div class="section-square"></div>
+            <div class="container">
+                <div class="features-inner section-inner">
+                    <div class="features-wrap">
+                        <div class="feature">
+                            <div class="feature-inner">
+                                <h4 class="feature-title h3-mobile">Find website folder</h4>
+                                <p class="text-sm">
+                                    You can find the website of this domain name in the directory <strong class="path-var">"/htdocs"</strong> on your account.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="feature">
+                            <div class="feature-inner">
+                                <h4 class="feature-title h3-mobile">Upload an index file</h4>
+                                <p class="text-sm">
+                                    In your website directory, upload a file with the name <strong>index.php</strong> or <strong>index.html</strong> to act as the home page.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="feature">
+                            <div class="feature-inner">
+                                <h4 class="feature-title h3-mobile">Delete index2.html</h4>
+                                <p class="text-sm">
+                                    When your own website is set up, you can delete this file, called <strong>index2.html</strong>, from your website folder.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="pricing section">
+            <div class="section-square"></div>
+            <div class="container">
+                <div class="pricing-inner section-inner has-top-divider">
+                    <h2 class="section-title mt-0 text-center">How to build a website</h2>
+                    <div class="pricing-tables-wrap">
+                        <div class="pricing-table">
+                            <div class="pricing-table-inner">
+                                <div class="pricing-table-main">
+                                    <h4 class="feature-title h3-mobile">Site.Pro Builder</h4>
+                                    <p class="text-sm">
+                                        Use the Site.pro website builder, included with InfinityFree, to build anything from simple landing pages to fully featured online stores.
+                                        All fully SEO optimized, completely mobile friendly and available in many languages.
+                                    </p>
+                                </div>
+                                <div class="pricing-table-cta">
+                                    <a class="button button-primary button-shadow button-block" href="https://forum.infinityfree.com/docs?topic=94339" target="_blank">
+                                        Learn about Site.Pro
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pricing-table">
+                            <div class="pricing-table-inner">
+                                <div class="pricing-table-main">
+                                    <h4 class="feature-title h3-mobile">Softaculous Installer</h4>
+                                    <p class="text-sm">
+                                        Use the Softaculous automatic script installer to install one of over 400 scripts, applications and CMS like WordPress with only a few clicks, and automatically keep them up to date.
+                                    </p>
+                                </div>
+                                <div class="pricing-table-cta">
+                                    <a class="button button-primary button-shadow button-block" href="https://forum.infinityfree.com/docs?topic=49314" target="_blank">
+                                        Learn about Softaculous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pricing-table">
+                            <div class="pricing-table-inner">
+                                <div class="pricing-table-main">
+                                    <h4 class="feature-title h3-mobile">Upload your own</h4>
+                                    <p class="text-sm">
+                                        Migrate your existing website from your previous hosting provider, or build your own website using the tools of your choice! With PHP and MySQL support, you can build almost anything.
+                                    </p>
+                                </div>
+                                <div class="pricing-table-cta">
+                                    <a class="button button-primary button-shadow button-block" href="https://forum.infinityfree.com/docs?topic=49306">
+                                        Learn about Uploading
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+		-->
+    </main>
+
+    <footer class="site-footer text-light">
+        <div class="container">
+            <div class="site-footer-inner has-top-divider">
+                <div class="brand footer-brand">
+                    <a href="https://www.voboxcore.com">
+						<div class="footer-brand-svg"> </div>
+                    </a>
+                </div>
+                <ul class="footer-links list-reset">
+                    <li>
+                        <a href="#">Client Area</a>
+                    </li>
+                    <li>
+                        <a href="#">Knowledge Base</a>
+                    </li>
+                    <li>
+                        <a href="#">Community Forum</a>
+                    </li>
+					<li>
+                        <a href="mailto:info@vbxmail.com">Contact Us!</a>
+                    </li>
+                </ul>
+                <ul class="footer-secondary-links list-reset">
+                    <li>
+                        <a href="https://www.voboxcore.com">
+                            Be Disruptive By Being Innovative!
+                        </a>
+                    </li>
+                </ul>
+                <div class="footer-copyright">
+                    &copy; <script>document.write(new Date().getFullYear())</script> Vobox<sup>&reg;</sup>&nbsp;Inc. All rights reserved.
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
