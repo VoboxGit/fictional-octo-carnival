@@ -1,0 +1,4 @@
+[13-Apr-2025 12:52:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE\CSPBuilder\CSPBuilder' not found in /home/voboxcor/public_html/config.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/voboxcor/public_html/config.php on line 5
